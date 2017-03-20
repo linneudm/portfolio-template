@@ -9,10 +9,10 @@ Demo: [https://felipecbarelli.github.io](https://felipecbarelli.github.io)
 ## Créditos e Licença
 
 Não precisa de licença, você já é de casa. =)  
-Só não remova a linha:
+Só não remova os créditos no rodapé da página.
 
-```javascript
-//Created by @felipecbarelli - Please don't remove this line.
+```html
+Template by Felipe Barelli. Available in GitHub.
 ```
 
 Desenvolvido por: [@felipecbarelli](https://github.com/felipecbarelli)
